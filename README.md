@@ -90,11 +90,11 @@ Solución en el código de como poner le estilo a los botones
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584905.png?token=exp=1635697981~hmac=c246f18e4c7d53af1c9a09707300941b" width="30px">
 
 # Maquetado de el footer
-Esta es  la ultima seccion de nuestra pagina en esta parteencontraras informacion adicional
+Esta es  la ultima seccion de nuestra pagina en esta parte en contraras informacion adicional
 
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
-<img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
-<img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
-<img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
-<img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
-<img src="" width="30px">
+<img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584933.png?token=exp=1635697989~hmac=fa68bf622d0dae5caa66eb10fc9425d5" width="30px">
+
+
+# Estilos para el footer
+Los estilos ya estan en el css hay se pueden mirar para como hacer los
