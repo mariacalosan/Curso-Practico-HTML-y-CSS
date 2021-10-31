@@ -51,6 +51,10 @@ le pondré una clase para agregar le los estilos
 no se nos olvide que las clases son generales con una  clase yo puedo agregar estilo a más etiquetas de HTML en cambio los #id son únicos solo se utilizan para ese elemento
 
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584995.png?token=exp=1635698036~hmac=9aefa83c47719e7b8463880a0642a7fc" width="30px">
+
+# manejo de iconos he imagenes
+Vamos a poner el icono en header y una imagen para que vaya tomando la forma de Google
+
 <img src="https://cdn-icons.flaticon.com/png/512/5585/premium/5585013.png?token=exp=1635698053~hmac=f0061cc05ade401b5207f495954d9632" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590500.png?token=exp=1635698070~hmac=a3f1ed72f97ede00dc5f8f24fc2995a4" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698145~hmac=1dfae6a4b4d6a01b0c718377d42e6f6b " width="30px">

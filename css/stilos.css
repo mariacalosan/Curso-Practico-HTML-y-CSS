@@ -9,11 +9,12 @@ body{
   padding: 0;
   font-size: 13px;
   font-family: sans-serif,arial,helvetica;
+  background-color:rgb(53, 54, 58);
 }
 header{
   width:100%;
   height: 60px;
-  background-color:antiquewhite;
+  background-color:rgb(53, 54, 58);
 }
 /*esto aca me dice que esta llamando a la etiqueta nav que esta dentro de l aetiqueta header
 lo que queremos con display flex es justificar el contenido y decirle que ese contenido quiero que lo mande a cualquiera de los dos estremos o pongas en el centro  */
@@ -23,7 +24,7 @@ header nav{
 }
 /*como ya le definimos un altura a el header la lista no puede ser mas alta que el padre a si que se pondra como auto*/
 header nav .nav{
-  width:250px;
+  width:210px;
   height:auto;
   display:flex;
   list-style:none;
@@ -32,10 +33,31 @@ header nav .nav{
 }
 nav .nav a{
   margin-right: 10px;
-  color: black;
+  color: white;
 }
 /*quitandole el estilo a la etiqueta de ancla(a)*/
 a{
   text-decoration: none;
   cursor: pointer;
+}
+nav .nav .menu-icon{
+  background-image: url('https://cdn-icons-png.flaticon.com/512/3129/3129736.png') ;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: contain;
+  width: 25px;
+  height: 25px;
+  margin-right:10px;
+  margin-left:10px;
+}
+nav .nav img{
+  border-radius: 50px;
+  margin-left: 15px;
+  width: 32px;
+  height: 32px;
+  margin-left:10px;
+}
+nav .nav .texto{
+  display: flex;
+  justify-content: center;
 }
