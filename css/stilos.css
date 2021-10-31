@@ -49,6 +49,7 @@ nav .nav .menu-icon{
   height: 25px;
   margin-right:10px;
   margin-left:10px;
+  cursor: pointer;
 }
 nav .nav img{
   border-radius: 50px;
@@ -118,4 +119,29 @@ main .main-input .icono-microfono{
   width: 20px;
   height: 20px;
   cursor: pointer;
+}
+main .main-botones{
+  width:530px;
+  margin: 0 auto;
+}
+main .main-botones div{
+  display: inline-block;
+}
+main .main-botones button{
+  height:36px;
+  background-color: rgb(206, 206, 206);
+  border: none;
+  font-size: 14px;
+  color:rgb(82, 82, 82);
+  border-radius: 8px;
+  padding: 0 15px;
+  margin-right: 15px;
+  margin-left: 15px;
+  cursor: pointer;
+}
+main .main-botones button:hover{
+  border: 1px solid;
+  border-color: rgb(104, 2, 117);
+  box-shadow: 0 1px 1px rgb(239, 119, 255);
+  color:rgb(0, 0, 0);
 }
