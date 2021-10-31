@@ -68,6 +68,10 @@ En esta sección pasamos a darle estilos a nuestro maquetado anterior
 
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698145~hmac=1dfae6a4b4d6a01b0c718377d42e6f6b " width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590581.png?token=exp=1635698157~hmac=96cee336594a37e2a7a922d2ae258ad8" width="30px">
+
+# estilos seccion de el input
+Se organizó el input de manera que se asemeje a la barra de búsqueda de Google
+
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
