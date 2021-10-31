@@ -56,6 +56,10 @@ no se nos olvide que las clases son generales con una  clase yo puedo agregar es
 Vamos a poner el icono en header y una imagen para que vaya tomando la forma de Google
 
 <img src="https://cdn-icons.flaticon.com/png/512/5585/premium/5585013.png?token=exp=1635698053~hmac=f0061cc05ade401b5207f495954d9632" width="30px">
+
+# Maquetando la sección principal
+Esta estructura es con la etiqueta semántica de main y otras secciones como botones y un input
+en el input hay que generar una interacción la etiqueta que tenemos como span va a servir para colocar un icono
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590500.png?token=exp=1635698070~hmac=a3f1ed72f97ede00dc5f8f24fc2995a4" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698145~hmac=1dfae6a4b4d6a01b0c718377d42e6f6b " width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590581.png?token=exp=1635698157~hmac=96cee336594a37e2a7a922d2ae258ad8" width="30px">
