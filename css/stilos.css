@@ -21,3 +21,21 @@ header nav{
   display:flex;
   justify-content:flex-end;
 }
+/*como ya le definimos un altura a el header la lista no puede ser mas alta que el padre a si que se pondra como auto*/
+header nav .nav{
+  width:250px;
+  height:auto;
+  display:flex;
+  list-style:none;
+  justify-content:center;
+  align-items:center;
+}
+nav .nav a{
+  margin-right: 10px;
+  color: black;
+}
+/*quitandole el estilo a la etiqueta de ancla(a)*/
+a{
+  text-decoration: none;
+  cursor: pointer;
+}

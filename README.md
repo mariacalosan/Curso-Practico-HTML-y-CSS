@@ -44,6 +44,12 @@ display grid y flex
  hay parte en el codigo css que estan comentadas para mejor entendimiento :)
 
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584973.png?token=exp=1635698019~hmac=281e25d5875ae4ca7421f3d68b615f1c" width="30px">
+
+# Posicionar los elementos de la lista de forma  horizontal
+Se puede tomar el elemento (ul) para que nos ayude a posicionar su contenido
+le pondré una clase para agregar le los estilos
+no se nos olvide que las clases son generales con una  clase yo puedo agregar estilo a más etiquetas de HTML en cambio los #id son únicos solo se utilizan para ese elemento
+
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584995.png?token=exp=1635698036~hmac=9aefa83c47719e7b8463880a0642a7fc" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5585/premium/5585013.png?token=exp=1635698053~hmac=f0061cc05ade401b5207f495954d9632" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590500.png?token=exp=1635698070~hmac=a3f1ed72f97ede00dc5f8f24fc2995a4" width="30px">
