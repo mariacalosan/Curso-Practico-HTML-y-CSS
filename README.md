@@ -35,8 +35,14 @@ Esta etiqueta es semántica la cual nos va a indicar que en donde estamos en nue
 - que sería una etiqueta de nav la cual indica que hay una barra de navegación adentro
 - Etiqueta contenedora las cuales serían (ol, ul) dentro de estas etiquetas vamos a generar los ítems (li) dentro de esta etiqueta vamos a poner una etiqueta de ancla(a)
 
-
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584953.png?token=exp=1635698004~hmac=09e564baaa66b7765a56541cd004a54d" width="30px">
+
+# Agregando estilos al header
+Vamos a estar manejando 3 tipos de layaut que son los display es la forma en la que las etiquetas se comportan entre ellas
+display layaut
+display grid y flex
+ hay parte en el codigo css que estan comentadas para mejor entendimiento :)
+
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584973.png?token=exp=1635698019~hmac=281e25d5875ae4ca7421f3d68b615f1c" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584995.png?token=exp=1635698036~hmac=9aefa83c47719e7b8463880a0642a7fc" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5585/premium/5585013.png?token=exp=1635698053~hmac=f0061cc05ade401b5207f495954d9632" width="30px">
