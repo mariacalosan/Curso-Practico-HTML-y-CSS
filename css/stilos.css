@@ -61,3 +61,18 @@ nav .nav .texto{
   display: flex;
   justify-content: center;
 }
+main{
+  margin-top: 150px;
+  text-align: center;
+  /*background-color:antiquewhite;*/
+}
+main .main-logo{
+  /*width: 530px;*/
+  margin: 0 auto;
+  margin-bottom: 35px;
+  Background-color: transparent;
+}
+main .main-logo img{
+  width: 272px;
+  height: 92px;
+}

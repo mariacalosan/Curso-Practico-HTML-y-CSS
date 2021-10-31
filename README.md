@@ -60,7 +60,12 @@ Vamos a poner el icono en header y una imagen para que vaya tomando la forma de 
 # Maquetando la sección principal
 Esta estructura es con la etiqueta semántica de main y otras secciones como botones y un input
 en el input hay que generar una interacción la etiqueta que tenemos como span va a servir para colocar un icono
+
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590500.png?token=exp=1635698070~hmac=a3f1ed72f97ede00dc5f8f24fc2995a4" width="30px">
+
+# estilos seccion principal
+En esta sección pasamos a darle estilos a nuestro maquetado anterior
+
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698145~hmac=1dfae6a4b4d6a01b0c718377d42e6f6b " width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5590/premium/5590581.png?token=exp=1635698157~hmac=96cee336594a37e2a7a922d2ae258ad8" width="30px">
 <img src="https://cdn-icons.flaticon.com/png/512/5584/premium/5584874.png?token=exp=1635698172~hmac=66c41a79a5fdc4b59d498a4a28d02a33" width="30px">
